@@ -20,7 +20,7 @@ Fonts are separated by a & */
   --headline-color-on-color: #FFFFFF; /* headlines on a colored background */
   --paragraph-color-on-white: rgb(23, 140, 172); /* paragraph text on a white background */
   --paragraph-color-on-color: #FFFFFF; /* paragraph text on a colored background */
-  --paragraph-background-color: #219ebc;
+  --paragraph-background-color: #000000;
   --nav-link-color: #023047;
   --nav-background-color: #fb8500;
   --nav-hover-link-color: white;
@@ -40,7 +40,7 @@ body {
 img {
   display: block;
   margin: 0 auto;
-  max-width: 200px;
+  max-width: 300px;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
